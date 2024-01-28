@@ -1,6 +1,6 @@
 #Image Generator Project
 
-#Getting Started
+##Getting Started
 To start the frontend React project:
 npm start
 
